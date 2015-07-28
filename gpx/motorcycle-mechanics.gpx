@@ -16,8 +16,8 @@
   xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
 <metadata>
-  <name>Cape York POI</name>
-  <desc>Cape York Points of Interest</desc>
+  <name>Motorcycle Mechanics and Parts, North Queensland</name>
+  <desc>Motorcycle Mechanics and Parts, North Queensland</desc>
   <author>
     <name>Tony Morris</name>
     <email id="tmorris" domain="tmorris.net"/>
@@ -32,11 +32,18 @@
   </copyright>    
 </metadata>
 
-<wpt lat="-15.706002" lon="145.223523">
+<wpt lat="-16.393137" lon="145.389541">
   <ele>0.000000</ele>
-  <name>Lions Den Hotel</name>
-  <cmt>Shiptons Flat Rd Rossville QLD 4895 (0740603911)</cmt>
-  <desc>Shiptons Flat Rd Rossville QLD 4895 (0740603911)</desc>
+  <name>Marr Josh Motorcycle and Small Engine Repairs</name>
+  <cmt>Marr Josh Motorcycle and Small Engine Repairs (0740988062, 0434202474, joshmarrmoto@bigpond.com)</cmt>
+  <desc>Marr Josh Motorcycle and Small Engine Repairs (0740988062, 0434202474, joshmarrmoto@bigpond.com)</desc>
+</wpt>
+
+<wpt lat="-15.483196" lon="145.244046">
+  <ele>0.000000</ele>
+  <name>Cooktown Motorcycles</name>
+  <cmt>Newman St Cooktown 4895 (0740695596)</cmt>
+  <desc>Newman St Cooktown 4895 (0740695596)</desc>
 </wpt>
 
 </gpx>
