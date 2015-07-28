@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    "THE BEER-WARE LICENSE" (Revision 42):
+    Tony Morris <tmorris@tmorris.net> wrote this file. As long as you retain this notice you
+    can do whatever you want with this stuff. If we meet some day, and you think
+    this stuff is worth it, you can buy me a beer in return.
+
+    Tony Morris
+-->
+
+<gpx
+  version="1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<metadata>
+  <name>Cape York POI</name>
+  <desc>Cape York Points of Interest</desc>
+  <author>
+    <name>Tony Morris</name>
+    <email id="tmorris" domain="tmorris.net"/>
+    <link href="http://tmorris.net/">
+      <text>Tony Morris</text>
+      <type>HTTP</type>
+    </link>
+  </author>
+  <copyright author="Tony Morris">
+    <year>2015</year>
+    <license>http://en.wikipedia.org/wiki/Beerware</license>
+  </copyright>    
+</metadata>
+
+<wpt lat="-15.706002" lon="145.223523">
+  <ele>0.000000</ele>
+  <name>Lions Den Hotel</name>
+  <cmt>Shiptons Flat Rd Rossville QLD 4895 (0740603911)</cmt>
+  <desc>Shiptons Flat Rd Rossville QLD 4895 (0740603911)</desc>
+</wpt>
+
+</gpx>
