@@ -45,7 +45,7 @@
 
 <wpt lat="-16.250358000" lon="145.318351000">
   <ele>0.000000</ele>
-  <name>Start of CREB Track</name>
+  <name>Start CREB Track</name>
   <cmt>Stewart Creek Road, Daintree Village</cmt>
   <desc>Stewart Creek Road, Daintree Village</desc>
 </wpt>
@@ -94,7 +94,7 @@
 
 <wpt lat="-15.936323000" lon="145.324359000">
   <ele>0.000000</ele>
-  <name>End</name>
+  <name>End CREB track</name>
   <cmt>Junction with Bloomfield Track</cmt>
   <desc>Junction with Bloomfield Track</desc>
 </wpt>
