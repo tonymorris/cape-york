@@ -41,6 +41,7 @@
   <name>Douglas Shire Council</name>
   <cmt>Douglas Shire Council, 64 Front St Mossman QLD 4873</cmt>
   <desc>Douglas Shire Council, 64 Front St Mossman QLD 4873</desc>
+  <sym>Civil</sym>
 </wpt>
 
 <wpt lat="-16.250358000" lon="145.318351000">
@@ -48,6 +49,7 @@
   <name>Start CREB Track</name>
   <cmt>Stewart Creek Road, Daintree Village</cmt>
   <desc>Stewart Creek Road, Daintree Village</desc>
+  <sym>Information</sym>
 </wpt>
 
 <wpt lat="-16.256806000" lon="145.313973000">
@@ -55,13 +57,15 @@
   <name>CREB Sign</name>
   <cmt>&lt;img src=&quot;http://i9.photobucket.com/albums/a61/STOOKIE/Creb%20track/DSC_2061.jpg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Image by &quot;Stookie&quot;</cmt>
   <desc>&lt;img src=&quot;http://i9.photobucket.com/albums/a61/STOOKIE/Creb%20track/DSC_2061.jpg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Image by &quot;Stookie&quot;</desc>
+  <sym>Information</sym>
 </wpt>
 
 <wpt lat="-16.198541000" lon="145.291893000">
   <ele>0.000000</ele>
-  <name>Daintree Rver Crossing</name>
+  <name>Daintree River Crossing</name>
   <cmt>&lt;img src=&quot;http://i9.photobucket.com/albums/a61/STOOKIE/Creb%20track/DSC_2063.jpg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Image by &quot;Stookie&quot;</cmt>
   <desc>&lt;img src=&quot;http://i9.photobucket.com/albums/a61/STOOKIE/Creb%20track/DSC_2063.jpg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Image by &quot;Stookie&quot;</desc>
+  <sym>Crossing</sym>
 </wpt>
 
 <wpt lat="-16.165796000" lon="145.304725000">
@@ -69,6 +73,7 @@
   <name>Creek Crossing</name>
   <cmt>&lt;img src=&quot;http://i9.photobucket.com/albums/a61/STOOKIE/Creb%20track/DSC_2067.jpg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Image by &quot;Stookie&quot;</cmt>
   <desc>&lt;img src=&quot;http://i9.photobucket.com/albums/a61/STOOKIE/Creb%20track/DSC_2067.jpg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Image by &quot;Stookie&quot;</desc>
+  <sym>Crossing</sym>
 </wpt>
 
 <wpt lat="-16.117853000" lon="145.319724000">
@@ -76,6 +81,7 @@
   <name>View NE to Big Red</name>
   <cmt>&lt;img src=&quot;http://i9.photobucket.com/albums/a61/STOOKIE/Creb%20track/DSC_2071.jpg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Image by &quot;Stookie&quot;</cmt>
   <desc>&lt;img src=&quot;http://i9.photobucket.com/albums/a61/STOOKIE/Creb%20track/DSC_2071.jpg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Image by &quot;Stookie&quot;</desc>
+  <sym>Scenic Area</sym>
 </wpt>
 
 <wpt lat="-16.100660000" lon="145.332427000">
@@ -83,6 +89,7 @@
   <name>Top of Big Red</name>
   <cmt>&lt;img src=&quot;http://i9.photobucket.com/albums/a61/STOOKIE/Creb%20track/DSC_2082.jpg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Image by &quot;Stookie&quot;</cmt>
   <desc>&lt;img src=&quot;http://i9.photobucket.com/albums/a61/STOOKIE/Creb%20track/DSC_2082.jpg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Image by &quot;Stookie&quot;</desc>
+  <sym>Scenic Area</sym>
 </wpt>
 
 <wpt lat="-16.029339000" lon="145.307643000">
@@ -90,6 +97,7 @@
   <name>Roaring Meg Falls Campground</name>
   <cmt>Permits Required for access - enquire EPA Atherton</cmt>
   <desc>Permits Required for access - enquire EPA Atherton</desc>
+  <sym>Campground</sym>
 </wpt>
 
 <wpt lat="-15.936323000" lon="145.324359000">
@@ -97,6 +105,7 @@
   <name>End CREB track</name>
   <cmt>Junction with Bloomfield Track</cmt>
   <desc>Junction with Bloomfield Track</desc>
+  <sym>Flag, Green</sym>
 </wpt>
 
 <wpt lat="-16.118100000" lon="145.319767000">
@@ -104,6 +113,7 @@
   <name>View NE to Big Red</name>
   <cmt>&lt;img src=&quot;http://i9.photobucket.com/albums/a61/STOOKIE/Creb%20track/DSC_2071.jpg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;</cmt>
   <desc>&lt;img src=&quot;http://i9.photobucket.com/albums/a61/STOOKIE/Creb%20track/DSC_2071.jpg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;</desc>
+  <sym>Scenic Area</sym>
 </wpt>
 
 </gpx>
