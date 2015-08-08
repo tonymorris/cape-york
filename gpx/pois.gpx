@@ -48,15 +48,6 @@
   <sym>Scenic Area<sym>
 </wpt>
 
-<!--
-TODO
-Twin Falls
-Eliot Falls
-Savo Falls
-Captain Billy Landing Camping Area
-
--->
-
 <wpt lat="-11.38687" lon="142.41409">
   <ele>0.000000</ele>
   <name>Eliot Falls Campground</name>
@@ -142,6 +133,30 @@ Captain Billy Landing Camping Area
   <name>South Jardine River Campground (approx)</name>
   <cmt>South Jardine River Campground (approx)</cmt>
   <desc>South Jardine River Campground (approx)</desc>
+  <sym>Campground</sym>
+</wpt>
+
+<wpt lat="-11.15693" lon="142.79705">
+  <ele>0.000000</ele>
+  <name>Ussher Point North Campground</name>
+  <cmt>Ussher Point North Campground</cmt>
+  <desc>Ussher Point North Campground</desc>
+  <sym>Campground</sym>
+</wpt>
+
+<wpt lat="-11.17216" lon="142.79499">
+  <ele>0.000000</ele>
+  <name>Ussher Point South Campground</name>
+  <cmt>Ussher Point South Campground</cmt>
+  <desc>Ussher Point South Campground</desc>
+  <sym>Campground</sym>
+</wpt>
+
+<wpt lat="-11.63020" lon="142.85406">
+  <ele>0.000000</ele>
+  <name>Captain Billy Landing Campground</name>
+  <cmt>Captain Billy Landing Campground</cmt>
+  <desc>Captain Billy Landing Campground</desc>
   <sym>Campground</sym>
 </wpt>
 
