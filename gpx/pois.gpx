@@ -39,4 +39,11 @@
   <desc>Shiptons Flat Rd Rossville QLD 4895 (0740603911)</desc>
 </wpt>
 
+<wpt lat="-11.43936" lon="142.43461">
+  <ele>0.000000</ele>
+  <name>Fruit Bat Falls</name>
+  <cmt>2.7km off Telegraph Track</cmt>
+  <desc>2.7km off Telegraph Track</desc>
+</wpt>
+
 </gpx>
