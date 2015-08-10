@@ -80,4 +80,12 @@
   <sym>Gas Station</sym>
 </wpt>
 
+<wpt lat="-10.847713" lon="142.368558">
+  <ele>0.000000</ele>
+  <name>Seisia Service Station</name>
+  <cmt>Seisia Service Station</cmt>
+  <desc>Seisia Service Station</desc>
+  <sym>Gas Station</sym>
+</wpt>
+
 </gpx>
