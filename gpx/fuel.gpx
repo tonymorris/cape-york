@@ -48,6 +48,36 @@
   <sym>Gas Station</sym>
 </wpt>
 
-<!-- Bramwell BP -->
+<wpt lat="-13.945216" lon="143.198846">
+  <ele>0.000000</ele>
+  <name>Coen</name>
+  <cmt>Coen</cmt>
+  <desc>Coen</desc>
+  <sym>Gas Station</sym>
+</wpt>
+
+<wpt lat="-13.437869" lon="142.941750">
+  <ele>0.000000</ele>
+  <name>Archer River Roadhouse</name>
+  <cmt>Archer River Roadhouse</cmt>
+  <desc>Archer River Roadhouse</desc>
+  <sym>Gas Station</sym>
+</wpt>
+
+<wpt lat="-11.103815" lon="142.283047">
+  <ele>0.000000</ele>
+  <name>Jardine River Ferry and Roadhouse</name>
+  <cmt>Jardine River Ferry and Roadhouse</cmt>
+  <desc>Jardine River Ferry and Roadhouse</desc>
+  <sym>Gas Station</sym>
+</wpt>
+
+<wpt lat="-14.781251" lon="143.503790">
+  <ele>0.000000</ele>
+  <name>Musgrave Roadhouse</name>
+  <cmt>Musgrave Roadhouse</cmt>
+  <desc>Musgrave Roadhouse</desc>
+  <sym>Gas Station</sym>
+</wpt>
 
 </gpx>
